@@ -5,4 +5,3 @@ Professor Matt Haberland\
 Homework Assignment\
 June 2018
 
-<img src = "https://kristentang.github.io/BFPC.jpg">
